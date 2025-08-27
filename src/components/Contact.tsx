@@ -85,12 +85,12 @@ const Contact = () => {
     //   link: 'https://github.com',
     //   color: 'cyber-teal'
     // },
-    // {
-    //   icon: Linkedin,
-    //   label: 'LinkedIn',
-    //   link: 'https://linkedin.com',
-    //   color: 'cyber-green'
-    // },
+    {
+      icon: Linkedin,
+      label: 'LinkedIn',
+      link: 'https://linkedin.com',
+      color: 'cyber-green'
+    },
     {
       icon: Mail,
       label: 'Email',
