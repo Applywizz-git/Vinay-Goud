@@ -175,7 +175,7 @@ const Hero = () => {
               <motion.img
                 src={profilePhoto}
                 alt="Vinaygoud Gandi - Cybersecurity Engineer"
-                className="relative w-80 h-80 object-cover rounded-full border-4 border-cyber-teal/30 animate-float"
+                className="relative w-80 h-96 object-cover rounded-full border-4 border-cyber-teal/30 animate-float"
                 whileHover={{ scale: 1.05, rotate: 2 }}
                 transition={{ type: "spring", stiffness: 300, damping: 20 }}
               />
