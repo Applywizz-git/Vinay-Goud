@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowDown, Download, Github, Linkedin, Mail } from 'lucide-react';
-import profilePhoto from '../assets/profile-photo.jpg';
+import profilePhoto from '../assets/profile-photo.jpeg';
 import heroBg from '../assets/hero-bg.jpg';
 
 const Hero = () => {
