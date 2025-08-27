@@ -34,7 +34,7 @@ const Index = () => {
     import('../assets/hero-bg.jpg').then((module) => {
       preloadImage(module.default);
     });
-    import('../assets/profile-photo.jpg').then((module) => {
+    import('../assets/profile-photo.jpeg').then((module) => {
       preloadImage(module.default);
     });
 
