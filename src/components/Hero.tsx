@@ -146,13 +146,13 @@ const Hero = () => {
                 className="text-white/60 hover:text-cyber-teal transition-colors duration-300 hover:scale-110 transform"
               >
                 <Github className="h-6 w-6" />
-              </a>
+              </a>*/}
               <a 
                 href="https://linkedin.com" 
                 className="text-white/60 hover:text-cyber-teal transition-colors duration-300 hover:scale-110 transform"
               >
                 <Linkedin className="h-6 w-6" />
-              </a> */}
+              </a> 
               <a 
                 href="mailto:gandivinay343@gmail.com" 
                 className="text-white/60 hover:text-cyber-teal transition-colors duration-300 hover:scale-110 transform"
