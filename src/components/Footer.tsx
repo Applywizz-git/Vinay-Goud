@@ -28,12 +28,12 @@ const Footer = () => {
     //   href: 'https://github.com',
     //   color: 'hover:text-cyber-teal'
     // },
-    // {
-    //   icon: Linkedin,
-    //   label: 'LinkedIn',
-    //   href: 'https://linkedin.com',
-    //   color: 'hover:text-cyber-green'
-    // },
+    {
+      icon: Linkedin,
+      label: 'LinkedIn',
+      href: 'https://linkedin.com',
+      color: 'hover:text-cyber-green'
+    },
     {
       icon: Mail,
       label: 'Email',
